@@ -28,7 +28,7 @@ A Bluesky clone built using Flutter, can support Android and Windows platforms.
 
 ```bash
 git clone https://github.com/FireRi/AppDev_Jamisola.git
-cd bluesky-clone-flutter
+cd AppDev_Jamisola
 ```
 ### 2. Get Dependencies (Optional)
 ```bash
